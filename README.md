@@ -1,4 +1,4 @@
-### Welcome to the my Profile! 🐱
+### Welcome to my Profile! 🐱
 
 - 🔭 I’m currently working on some minor side projects
 - 🌱 I’m currently learning korean and russian
