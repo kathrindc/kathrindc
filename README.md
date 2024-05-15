@@ -1,13 +1,13 @@
 ![Profile Banner](banner.png)
 
-<center>
+<p align="center">
     <a href="https://toast.ws"><img alt="My Blog" src="https://img.shields.io/badge/my_blog-000?style=plastic&logo=rss&logoColor=white&color=%23FFA500"></a>
     <br/>
     <br/>
     🔭 I’m currently working at Kärntner Sparkasse AG.<br/>
     📫 How to reach me: GitHub, Twitter or Avian Carrier Pidgeons<br/>
     ⚡ Fun fact: I only function properly when provided with tea and headphones.
-</center>
+</p>
 
 ### Things I work with
 
