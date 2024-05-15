@@ -25,3 +25,11 @@
     <img alt="Firefox" src="https://img.shields.io/badge/affinity-0000?style=plastic&logo=Affinity&logoColor=white&color=%23222324">
     <img alt="Firefox" src="https://img.shields.io/badge/spotify-0000?style=plastic&logo=Spotify&logoColor=white&color=%231DB954">
 </p>
+
+### What I'm listening to
+
+<p align="center">
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=jpag_&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4e93b1&bar_color_cover=false" />
+</a>
+</p>
